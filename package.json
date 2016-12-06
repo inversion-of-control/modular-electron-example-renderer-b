@@ -1,0 +1,19 @@
+{
+  "name": "@inversion-of-control/modular-electron-example-renderer-b",
+  "version": "0.0.1",
+  "description": "Modular Electron Renderer B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inversion-of-control/modular-electron-example-renderer-b.git"
+  },
+  "author": "John Gardiner <jwegardiner@gmail.com> (https://github.com/johngardiner)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inversion-of-control/modular-electron-example-renderer-b/issues"
+  },
+  "homepage": "https://github.com/inversion-of-control/modular-electron-example-renderer-b#readme"
+}
